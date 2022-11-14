@@ -1,5 +1,6 @@
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">Hi 👋, I'm Akhil Sodvadiya</h1>
+<h3 align="center">A passionate android development learner from India.</h3>
 # 💫 About Me:
 🔭 I’m currently Learning Android Development<br><br>🌱 I’m currently learning C / C++<br><br>👯 I’m looking to collaborate for Application Development<br><br>🤝 I’m looking for help Best Teachers and Best Learners<br><br>👨‍💻 All of my projects are available at https://github.com/theAkHilsarkar18?tab=repositories<br><br>📝 I regularly write codes on https://github.com/theAkHilsarkar18?tab=repositories<br><br>💬 Ask me about C / C++<br><br>📫 How to reach me akhilsodvadiya@gmail.com<br><br>⚡ Fun fact I am Amazing !!
 
