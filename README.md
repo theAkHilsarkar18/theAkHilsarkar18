@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4948736-UI-Developer&psig=AOvVaw33WFu-9HpVguzYayAERNl_&ust=1668517771580000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj9jJTfrfsCFQAAAAAdAAAAABAb">
 <h1 align="center">Hi 👋, I'm Akhil Sodvadiya</h1>
 <h3 align="center">A passionate android development learner from India.</h3>
 # 💫 About Me:
