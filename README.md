@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4948736-UI-Developer&psig=AOvVaw33WFu-9HpVguzYayAERNl_&ust=1668517771580000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj9jJTfrfsCFQAAAAAdAAAAABAb">
+<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 <h1 align="center">Hi 👋, I'm Akhil Sodvadiya</h1>
 <h3 align="center">A passionate android development learner from India.</h3>
 # 💫 About Me:
