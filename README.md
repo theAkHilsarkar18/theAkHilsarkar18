@@ -1,7 +1,7 @@
 ![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 <h1 align="center">Hi 👋, I'm Akhil Sodvadiya</h1>
-<h3 align="center">A passionate android development learner from India.</h3>
+<h3 align="center">A passionate flutter development learner from India.</h3>
 # 💫 About Me:
 🔭 I’m currently Learning Android Development<br><br>🌱 I’m currently learning C / C++<br><br>👯 I’m looking to collaborate for Application Development<br><br>🤝 I’m looking for help Best Teachers and Best Learners<br><br>👨‍💻 All of my projects are available at https://github.com/theAkHilsarkar18?tab=repositories<br><br>📝 I regularly write codes on https://github.com/theAkHilsarkar18?tab=repositories<br><br>💬 Ask me about C / C++<br><br>📫 How to reach me akhilsodvadiya@gmail.com<br><br>⚡ Fun fact I am Amazing !!
 
