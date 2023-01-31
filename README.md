@@ -1,4 +1,5 @@
-![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
+![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/0_goaFvkjpQM-0p0h6_.jpeg)
+![Header](./your-header-image-name.png)
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 <h1 align="center">Hi 👋, I'm Akhil Sodvadiya</h1>
 <h3 align="center">A passionate flutter development learner from India.</h3>
