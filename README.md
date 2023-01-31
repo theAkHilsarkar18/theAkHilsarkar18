@@ -59,4 +59,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakhilsarkar18&show_icons=true&locale=en" alt="theakhilsarkar18" /></p>
 
-![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/0_goaFvkjpQM-0p0h6_.jpeg)
+![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
