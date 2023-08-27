@@ -1,49 +1,71 @@
 
 ![Header](./github-header-image%20(1).png)
-<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <h1 align="center">Hi 👋, I'm Akhil Sodvadiya</h1>
-<h3 align="center">A passionate flutter development learner from India.</h3>
-
-# 💫 About Me:
-
-
-- 🔭 I’m currently Learning **Flutter Development**
-
-- 🌱 I’m currently learning **Core Flutter**
-
-- 👯 I’m looking to collaborate for **Application Devlopment**
-
-- 🤝 I’m looking for help **Best Teachers and Best Learners**
-
-- 👨‍💻 All of my projects are available at [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/theAkHilsarkar18?tab=repositories)
-
-- 📝 I regularly write codes on [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/theAkHilsarkar18?tab=repositories)
-
-- 💬 Ask me about **C / C++ / Dart / Flutter Projects**
-
-- 📫 How to reach me **akhilsodvadiya@gmail.com**
-
-- 📄 Know about my experiences [GitHub](GitHub)
-
-- ⚡ Fun fact **I am Amazing !!**
-
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/theakhilsarkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/theakhilsarkar" /></a></p><br><br>
+<h3 align="center">Flutter Application Developer and Trainer - Faculty at Red and White Multimedia Education Pvt. Ltd.</h3>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theakhilsarkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-sodvadiya-2a1040257/) 
+###
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+<div align="left">
+  <a href="https://www.instagram.com/theakhilsarkar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="rw8.akhil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/akhil-sodvadiya-2a1040257/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/TheAkhilSarkar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-#GitHub Award
+###
+
+
+### 💻 Tech Stack:
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="chrome logo"  />
+</div>
+
+###
+
+
+## GitHub Award
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theakhilsarkar18" alt="theakhilsarkar18" /></a> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=theAkHilsarkar18&theme=dark&hide_border=false)<br/>
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=theAkHilsarkar18&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="169" alt="streak graph"  />
+</div>
+
+###
 
 ### ✍️ Dev. Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -60,3 +82,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakhilsarkar18&show_icons=true&locale=en" alt="theakhilsarkar18" /></p>
 
 ![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
+
+
